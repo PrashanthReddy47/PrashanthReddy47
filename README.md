@@ -4,6 +4,6 @@
 - 🌱 I’m currently learning Python.
 - 👯 I'm looking to collaborate on research projects.
 - 💬 Ask me about anything, I'm happy to help.
-- 📫 How to reach me: Linkedin:- prashanth-reddy-putta-612215176
+- 📫 How to reach me: Linkedin:- [Prashanth Reddy Putta](https://www.linkedin.com/in/prashanth-reddy-putta-612215176/)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Someday my Crypto portfolio will reach million dollars.

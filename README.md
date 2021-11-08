@@ -1,4 +1,4 @@
-### (*Ciao*), I'm Prashanth Reddy Putta 👋
+### *Ciao*, I'm Prashanth Reddy Putta 👋
 
 - 🔭 I’m currently working on Multi-temporal analysis using GEE.
 - 🌱 I’m currently learning Python.

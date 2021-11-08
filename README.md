@@ -2,8 +2,8 @@
 
 - 🔭 I’m currently working on Multi-temporal analysis using GEE.
 - 🌱 I’m currently learning Python.
-- 🤔 I’m looking for help with improving my python skills.
-- 💬 Ask me about GEE or anything related to remote sensing.
-- 📫 How to reach me: linkedin prashanth-reddy-putta-612215176
+- 👯 I'm looking to collaborate on research projects.
+- 💬 Ask me about anything, I'm happy to help.
+- 📫 How to reach me: Linkedin:- prashanth-reddy-putta-612215176
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Someday my Crypto portfolio will reach million dollars.

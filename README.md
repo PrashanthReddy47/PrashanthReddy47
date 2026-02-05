@@ -1,7 +1,6 @@
 ### *Ciao*, I'm Prashanth Reddy Putta 👋
 
-- 🔭 I’m currently working on a project: Multi-temporal analysis using GEE.
-- 🌱 I’m currently learning Python.
+- 🌱 I’m currently working on AI and ML/DL integration in Remote Sensing/Earth Observation.
 - 👯 I'm looking to collaborate on research projects.
 - 💬 Ask me about anything, I'm happy to help.
 - 📫 How to reach me: Linkedin:- [Prashanth Reddy Putta](https://www.linkedin.com/in/prashanthreddyputta)
